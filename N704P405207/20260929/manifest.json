@@ -1,0 +1,146 @@
+{
+ "N704P405207D.MAIN": {
+  "source_col": "CD",
+  "size": [
+   2000,
+   2000
+  ],
+  "sha256": "570d123cfd621bf24f60fdf714b662ab52d846a67c2d667e951a842f4ac26df2"
+ },
+ "N704P405207D.PT01": {
+  "source_col": "CK",
+  "size": [
+   2000,
+   2000
+  ],
+  "sha256": "4c28b4a883a996ddb1b65d9c0efd4ce0e439bff6236f16b2b0b5f2c591249ab8"
+ },
+ "N704P405207D.PT02": {
+  "source_col": "CH",
+  "size": [
+   2000,
+   2000
+  ],
+  "sha256": "69ae2ae1fc25e357da7ce7148740d896eeed263ae518bc5655a3bd8e2fa9f664"
+ },
+ "N704P405207D.PT03": {
+  "source_col": "CI",
+  "size": [
+   2000,
+   2000
+  ],
+  "sha256": "c6b63c4ad8fde7949d1037799778049748e39030afa3cb6721ee65f72752ac25"
+ },
+ "N704P405207D.PT04": {
+  "source_col": "CF",
+  "size": [
+   2000,
+   2000
+  ],
+  "sha256": "11f37ef052a974e2bc4ce43f14af32ef0a24b360de03764dbeff6c46482df73c"
+ },
+ "N704P405207D.PT05": {
+  "source_col": "CJ",
+  "size": [
+   2000,
+   2000
+  ],
+  "sha256": "db8210d99c94a50d68e5e5809946009dd7449e411ceeb016c10e925a11c06154"
+ },
+ "N704P405207D.PT06": {
+  "source_col": "CQ",
+  "size": [
+   2000,
+   2000
+  ],
+  "sha256": "7d6ae3509fd70c7e60946aaaa113a264981066179a87872203acafcf8db67211"
+ },
+ "N704P405207D.PT07": {
+  "source_col": "CG",
+  "size": [
+   2048,
+   2048
+  ],
+  "sha256": "70ffbcc112e789e4226dfeb3f4284e1a3e2412d2ab8c79547c80dc91a6807f90"
+ },
+ "N704P405207D.PT08": {
+  "source_col": "CE",
+  "size": [
+   2048,
+   2048
+  ],
+  "sha256": "fc4200be8c4517abec559b8e112ce6da95bfd0d1ffb7b5fa473a56efd40af6b0"
+ },
+ "N704P405207K.MAIN": {
+  "source_col": "CE",
+  "size": [
+   2000,
+   2000
+  ],
+  "sha256": "90c0c4d46fb051f47f20ca6f92d562d7a31b568400623e1e6bb6cc0581732c66"
+ },
+ "N704P405207K.PT01": {
+  "source_col": "CK",
+  "size": [
+   2000,
+   2000
+  ],
+  "sha256": "1464a76a8da316e95c298a1abefd6fa829ec7a2551768d7405f802581dc2d60c"
+ },
+ "N704P405207K.PT02": {
+  "source_col": "CH",
+  "size": [
+   2000,
+   2000
+  ],
+  "sha256": "e9a0507fb9ebaab1d2d7adc27eb2f3ba7e4a7b1b9572cb573fb4b8a83fb9d67c"
+ },
+ "N704P405207K.PT03": {
+  "source_col": "CJ",
+  "size": [
+   2000,
+   2000
+  ],
+  "sha256": "afaa90f29a7444a76e885ad1d8102c0ce1f85a906f39dd2cd8fa773c81eec432"
+ },
+ "N704P405207K.PT04": {
+  "source_col": "CF",
+  "size": [
+   2000,
+   2000
+  ],
+  "sha256": "e971ba5f37cc54be87f5f3f78aa685412227949eeefaa06abfc673e559fae18d"
+ },
+ "N704P405207K.PT05": {
+  "source_col": "CI",
+  "size": [
+   2000,
+   2000
+  ],
+  "sha256": "13f33785303bbeebb5a7c51475906fb99c40e4337237953ed49d5b08e9b95aad"
+ },
+ "N704P405207K.PT06": {
+  "source_col": "CQ",
+  "size": [
+   2000,
+   2000
+  ],
+  "sha256": "9055131ca7a28ee6c8e71c1fb3220fced3264783b439ab630502ff5d93a4ab27"
+ },
+ "N704P405207K.PT07": {
+  "source_col": "CD",
+  "size": [
+   2048,
+   2048
+  ],
+  "sha256": "82e4d76f101a0a14066e7e9fc89e00274e463d69b476c1c48165c286db70cd73"
+ },
+ "N704P405207K.PT08": {
+  "source_col": "CG",
+  "size": [
+   2048,
+   2048
+  ],
+  "sha256": "5e07186e2ce4aee70a437dc671a8f3763271d5d175ad92f6bdc27885710d5314"
+ }
+}
