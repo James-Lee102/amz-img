@@ -1,0 +1,278 @@
+{
+ "N721S000091K": [
+  {
+   "slot": "MAIN",
+   "src": "scratch/scene/N721S000091K/N721S000091K_B.png",
+   "size": [
+    1254,
+    1254
+   ],
+   "kb": 303,
+   "sha256": "9fd9e7e05af3df6f24852a6ff6d5cf1cbc486e70bba41b233df0c5e712ee50aa"
+  },
+  {
+   "slot": "PT01",
+   "src": "scratch/feat/delivery/N721S000091K/N721S000091K_01_storage.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 631,
+   "sha256": "70c4ea7e1f80313937d8390c49ab6d22e6b20796a5069de378092b567806af6d"
+  },
+  {
+   "slot": "PT02",
+   "src": "scratch/feat/delivery/N721S000091K/N721S000091K_06_dimensions.jpg",
+   "size": [
+    2400,
+    2400
+   ],
+   "kb": 407,
+   "sha256": "426d28a70df48acd8b4566f561469a6f359e46840ede06863193ac4f8acc83d9"
+  },
+  {
+   "slot": "PT03",
+   "src": "scratch/feat/delivery/N721S000091K/N721S000091K_02_before_after.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 727,
+   "sha256": "17596f62740dde74cc2303a7bc3065f7d6585e8b00888558b660fb6d4033655b"
+  },
+  {
+   "slot": "PT04",
+   "src": "scratch/feat/delivery/N721S000091K/N721S000091K_03_sitting.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 682,
+   "sha256": "94493f6766d78e60cf2944e99a36615c65b8a6faa4b70edff4dd06a33f92fe86"
+  },
+  {
+   "slot": "PT05",
+   "src": "scratch/feat/delivery/N721S000091K/N721S000091K_05_feature.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 611,
+   "sha256": "4e8a702d97dd72e173b8e6ed92a53bb69d66216128840beb86f3c8dbedd9b823"
+  },
+  {
+   "slot": "PT06",
+   "src": "scratch/feat/delivery/N721S000091K/N721S000091K_04_beyond.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 701,
+   "sha256": "5720a50aa7a74761709b296ae92e1daa95a83bba572d49962dfd9f51c52fd47f"
+  },
+  {
+   "slot": "PT07",
+   "src": "scratch/feat/delivery/N721S000091K/N721S000091K_07_side_hooks.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 593,
+   "sha256": "8b53b18e70a537e85364650653e805c618c2c1f5d6556bc915bc48d2d2632a6e"
+  },
+  {
+   "slot": "PT08",
+   "src": "scratch/scene/N721S000091K/N721S000091K_C.png",
+   "size": [
+    1254,
+    1254
+   ],
+   "kb": 321,
+   "sha256": "74173919696fb019d9faa8781e7b0d0065853fc5dbb7804e2224d6855dd43c68"
+  }
+ ],
+ "N721S000091B": [
+  {
+   "slot": "MAIN",
+   "src": "scratch/scene/N721S000091B/N721S000091B_B.png",
+   "size": [
+    1254,
+    1254
+   ],
+   "kb": 313,
+   "sha256": "0017f3e8e5012b7b5a9b16eda05e88bb1d935ce8652a19b0667f5fc08f52a5a6"
+  },
+  {
+   "slot": "PT01",
+   "src": "scratch/feat/delivery/N721S000091B/N721S000091B_01_storage.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 646,
+   "sha256": "c7033e052ac74806561f783b87e78b2faa94174dfb13463b558f3bfc6fcca0f2"
+  },
+  {
+   "slot": "PT02",
+   "src": "scratch/feat/delivery/N721S000091B/N721S000091B_06_dimensions.jpg",
+   "size": [
+    2400,
+    2400
+   ],
+   "kb": 427,
+   "sha256": "77e3484a84f287ea28d3b0fae6c72e0f0e43af4c39aaf398be4cf916a4cb76cd"
+  },
+  {
+   "slot": "PT03",
+   "src": "scratch/feat/delivery/N721S000091B/N721S000091B_02_before_after.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 768,
+   "sha256": "61eb468d341a9d7e75011c3063f77e938e628adb768fb73752d898f275822099"
+  },
+  {
+   "slot": "PT04",
+   "src": "scratch/feat/delivery/N721S000091B/N721S000091B_03_sitting.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 697,
+   "sha256": "3304fa08173dad81ac1ff34e8d95c17526d875b051fd788a76fe47479ce50bfc"
+  },
+  {
+   "slot": "PT05",
+   "src": "scratch/feat/delivery/N721S000091B/N721S000091B_05_feature.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 598,
+   "sha256": "f38f61391004e23a44b122e2d58eeaf1bc9707d7a1931831ea98e6318d26b659"
+  },
+  {
+   "slot": "PT06",
+   "src": "scratch/feat/delivery/N721S000091B/N721S000091B_04_beyond.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 713,
+   "sha256": "cd8d01eb7d9cda1a2cebc2662f0977536d34e5b4c24eb5943afa753b883c297d"
+  },
+  {
+   "slot": "PT07",
+   "src": "scratch/feat/delivery/N721S000091B/N721S000091B_07_side_hooks.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 618,
+   "sha256": "5e10c27f02c435c979f2da64e95abe6e0e33160b3ca7055df30a746d98613ee8"
+  },
+  {
+   "slot": "PT08",
+   "src": "scratch/scene/N721S000091B/N721S000091B_C.png",
+   "size": [
+    1254,
+    1254
+   ],
+   "kb": 326,
+   "sha256": "2aae98097b5670eb495ea057e4868d2777d0451a5509e5dd55772c68bce81ea6"
+  }
+ ],
+ "N721S000091M": [
+  {
+   "slot": "MAIN",
+   "src": "scratch/scene/N721S000091M/N721S000091M_B.png",
+   "size": [
+    1254,
+    1254
+   ],
+   "kb": 308,
+   "sha256": "b45f6612c96c889f8c1d5e296cce10daba3e6ccfd7c1b983461ec6c6ef07564f"
+  },
+  {
+   "slot": "PT01",
+   "src": "scratch/feat/delivery/N721S000091M/N721S000091M_01_storage.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 633,
+   "sha256": "60fd930e9ff486c4ae3bda1de21ff98ff568d0af251897115296e7c400655d68"
+  },
+  {
+   "slot": "PT02",
+   "src": "scratch/feat/delivery/N721S000091M/N721S000091M_06_dimensions.jpg",
+   "size": [
+    2400,
+    2400
+   ],
+   "kb": 442,
+   "sha256": "d0965de285ceab75a086ebc6ce8175137e789549cd8a9942f49c62347c3e0430"
+  },
+  {
+   "slot": "PT03",
+   "src": "scratch/feat/delivery/N721S000091M/N721S000091M_02_before_after.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 736,
+   "sha256": "583042034d9da5b468e64b7b7b73185b170d450ddf68fb36c5bd3ab8cd76229b"
+  },
+  {
+   "slot": "PT04",
+   "src": "scratch/feat/delivery/N721S000091M/N721S000091M_03_sitting.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 704,
+   "sha256": "56aa7e51812ee2875f3c64c7f3a15d70ca5bd2af06da0d452a5f63046163295a"
+  },
+  {
+   "slot": "PT05",
+   "src": "scratch/feat/delivery/N721S000091M/N721S000091M_05_feature.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 603,
+   "sha256": "9a0de7f725edc6404eba3b479371942548eec0f9d3b456dd9378e50ba9dfad7b"
+  },
+  {
+   "slot": "PT06",
+   "src": "scratch/feat/delivery/N721S000091M/N721S000091M_04_beyond.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 705,
+   "sha256": "f2266583eb608de361e7651431be92188c489e44f2690df424b8b7002563f872"
+  },
+  {
+   "slot": "PT07",
+   "src": "scratch/feat/delivery/N721S000091M/N721S000091M_07_side_hooks.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 606,
+   "sha256": "7770cd32ee035d54677d7b2d747b826f1a1576d3c80d34fd15bea82181e40abb"
+  },
+  {
+   "slot": "PT08",
+   "src": "scratch/scene/N721S000091M/N721S000091M_C.png",
+   "size": [
+    1254,
+    1254
+   ],
+   "kb": 318,
+   "sha256": "0ab09c6a204f99bc9586301fe200a35f1674bc7938eba96ba4f45d31aa479b18"
+  }
+ ]
+}

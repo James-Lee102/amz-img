@@ -1,0 +1,186 @@
+{
+ "N721S000075B-1": [
+  {
+   "slot": "MAIN",
+   "src": "scratch/scene/N721S000075B-1/N721S000075B-1_A.png",
+   "size": [
+    1254,
+    1254
+   ],
+   "kb": 333,
+   "sha256": "1580ed50976e3cb07df59b02bb2826091b404cbb62ba09f2781c3b2a4fceec4b"
+  },
+  {
+   "slot": "PT01",
+   "src": "scratch/feat/delivery/N721S000075B-1/N721S000075B-1_01_storage.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 601,
+   "sha256": "c8ac9c1d418172852834f5112c8db340f2fb8ab0638dd0f9f633632adeaff3c2"
+  },
+  {
+   "slot": "PT02",
+   "src": "scratch/feat/delivery/N721S000075B-1/N721S000075B-1_06_dimensions.jpg",
+   "size": [
+    2400,
+    2400
+   ],
+   "kb": 441,
+   "sha256": "a677e4ae79841c6f76e74e97d5437b1ce2adc1d4fc82274c8244826847c7bbc9"
+  },
+  {
+   "slot": "PT03",
+   "src": "scratch/feat/delivery/N721S000075B-1/N721S000075B-1_02_before_after.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 678,
+   "sha256": "adb17d09ab2ad42982936fd7e93e7ee575ef7dff41dfdf4980dd721d9380b38e"
+  },
+  {
+   "slot": "PT04",
+   "src": "scratch/feat/delivery/N721S000075B-1/N721S000075B-1_03_sitting.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 685,
+   "sha256": "5d5c10d0d427038021b87e623d4636795def92d9598970ec0a1d5175776d1adb"
+  },
+  {
+   "slot": "PT05",
+   "src": "scratch/feat/delivery/N721S000075B-1/N721S000075B-1_05_feature.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 509,
+   "sha256": "df6301466859dbbd9924967cef5a0f1555e73690917c1de10419ba4560779b30"
+  },
+  {
+   "slot": "PT06",
+   "src": "scratch/feat/delivery/N721S000075B-1/N721S000075B-1_04_beyond.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 709,
+   "sha256": "f9d57c22158ef28b488c99024591d9b45d991aa98ef7f065c36e4a566c83533a"
+  },
+  {
+   "slot": "PT07",
+   "src": "library/N721S000075B-1/N721S000075B-1_CE.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 888,
+   "sha256": "735203ee964714beeca56c34acd078d88e8a643ca2599344673cc85cda78bd60"
+  },
+  {
+   "slot": "PT08",
+   "src": "library/N721S000075B-1/N721S000075B-1_CM.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 307,
+   "sha256": "9986d012a258db72a80a93b1b848c8d099fd619d4cc162e269c141d000793a89"
+  }
+ ],
+ "N721S000075K-1": [
+  {
+   "slot": "MAIN",
+   "src": "scratch/N721S000075K-1_D_aligned.png",
+   "size": [
+    1254,
+    1254
+   ],
+   "kb": 305,
+   "sha256": "bf2ef4b6a167bc7176a64d9e34d1444d33b7b4baaf874dd26e6928c9f25b2b6e"
+  },
+  {
+   "slot": "PT01",
+   "src": "scratch/feat/delivery/N721S000075K-1/N721S000075K-1_01_storage.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 624,
+   "sha256": "ddb826cea3905ecc8c2af92b6111063741220324f122d1ea67c933a157d2080a"
+  },
+  {
+   "slot": "PT02",
+   "src": "scratch/feat/delivery/N721S000075K-1/N721S000075K-1_06_dimensions.jpg",
+   "size": [
+    2400,
+    2400
+   ],
+   "kb": 410,
+   "sha256": "01d8f1f0be55184f1880e992a3f7d4d56ffc54d79565ec218b9c87743a683422"
+  },
+  {
+   "slot": "PT03",
+   "src": "scratch/feat/delivery/N721S000075K-1/N721S000075K-1_02_before_after.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 678,
+   "sha256": "52d8128f7e4053dfc566cf05caf1e994bc29d3b8c92e1987fcd981755ce2081c"
+  },
+  {
+   "slot": "PT04",
+   "src": "scratch/feat/delivery/N721S000075K-1/N721S000075K-1_03_sitting.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 679,
+   "sha256": "987e8773d1936c87f8e7b684902f46c58861782d3c0dd02bcaba1c42d6cc7283"
+  },
+  {
+   "slot": "PT05",
+   "src": "scratch/feat/delivery/N721S000075K-1/N721S000075K-1_05_feature.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 499,
+   "sha256": "0d992dafe5e4b80fdb2ca45a285ef86bb49748601f5cb08d0e9d5bf447826190"
+  },
+  {
+   "slot": "PT06",
+   "src": "scratch/feat/delivery/N721S000075K-1/N721S000075K-1_04_beyond.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 701,
+   "sha256": "7ab1211f115ff63eb8d69a377f58cedf68f6c8d819670770dad602141ba757cb"
+  },
+  {
+   "slot": "PT07",
+   "src": "library/N721S000075K-1/N721S000075K-1_CE.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 738,
+   "sha256": "8fab476f4148c7f6e3bdce7b1c00e42e39330c6869b3834cd44370b14a79c311"
+  },
+  {
+   "slot": "PT08",
+   "src": "library/N721S000075K-1/N721S000075K-1_CM.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 228,
+   "sha256": "ba84a995c508c41442bb04c9f7a2c2d2b386095c0cd84221f6f628085bbb7036"
+  }
+ ]
+}

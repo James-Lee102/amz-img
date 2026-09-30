@@ -1,0 +1,278 @@
+{
+ "N721S000056K-1": [
+  {
+   "slot": "MAIN",
+   "src": "scratch/scene/N721S000056K-1/N721S000056K-1_C.png",
+   "size": [
+    1254,
+    1254
+   ],
+   "kb": 305,
+   "sha256": "1011d40796e6bd86af0fadde26246ad4ae00f4598729871e946f28ad1fd4eb0f"
+  },
+  {
+   "slot": "PT01",
+   "src": "scratch/feat/delivery/N721S000056K-1/N721S000056K-1_01_storage.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 668,
+   "sha256": "4daa40d42fd7916c782cab38942b5d599fe396d63e799a95c735c70e231292d0"
+  },
+  {
+   "slot": "PT02",
+   "src": "scratch/feat/delivery/N721S000056K-1/N721S000056K-1_06_dimensions.jpg",
+   "size": [
+    2400,
+    2400
+   ],
+   "kb": 404,
+   "sha256": "0ea834ce5a8ea15848ac7977adb7c15702358c2b390254d64be64ebc92464a94"
+  },
+  {
+   "slot": "PT03",
+   "src": "scratch/feat/delivery/N721S000056K-1/N721S000056K-1_02_before_after.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 727,
+   "sha256": "030b50c614ef37e1f460a171614f33a9b8402d51ee86b228faaa2a26d2b49ae3"
+  },
+  {
+   "slot": "PT04",
+   "src": "scratch/feat/delivery/N721S000056K-1/N721S000056K-1_03_sitting.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 690,
+   "sha256": "475bd006a3a815c09d434ab937e9b461844a761d6da4cc240b8a562c3ff7b958"
+  },
+  {
+   "slot": "PT05",
+   "src": "scratch/feat/delivery/N721S000056K-1/N721S000056K-1_05_feature.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 586,
+   "sha256": "87c92c39a71aea554450377b5a7fdcb5307d65bb0bc14e9825d61758131d4980"
+  },
+  {
+   "slot": "PT06",
+   "src": "scratch/feat/delivery/N721S000056K-1/N721S000056K-1_04_beyond.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 693,
+   "sha256": "8984a7b52347993404e290f5c7627b4ae7221f69a6d52f83032ff4c2ea25352f"
+  },
+  {
+   "slot": "PT07",
+   "src": "library/N721S000056K-1/N721S000056K-1_CE.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 552,
+   "sha256": "87558a78384f36f384af7f950701c40aaf09735ef6b7ce977bfee939ecf4ff55"
+  },
+  {
+   "slot": "PT08",
+   "src": "scratch/scene/N721S000056K-1/N721S000056K-1_A.png",
+   "size": [
+    1254,
+    1254
+   ],
+   "kb": 312,
+   "sha256": "54cbab70924c4543745195cc31cff9f1e4e2993cb498064a574aa748cc177d2b"
+  }
+ ],
+ "N721S000056B-1": [
+  {
+   "slot": "MAIN",
+   "src": "scratch/scene/N721S000056B-1/N721S000056B-1_C.png",
+   "size": [
+    1254,
+    1254
+   ],
+   "kb": 307,
+   "sha256": "1031cb9a2feb4054949d31c81f71bb6335281a0ba7dfda0bc861303f1a39dccc"
+  },
+  {
+   "slot": "PT01",
+   "src": "scratch/feat/delivery/N721S000056B-1/N721S000056B-1_01_storage.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 688,
+   "sha256": "f46d98d4f50829eb07ee63ffbe1ef0beaebf068c53441fa66e3e8eb5a0600f47"
+  },
+  {
+   "slot": "PT02",
+   "src": "scratch/feat/delivery/N721S000056B-1/N721S000056B-1_06_dimensions.jpg",
+   "size": [
+    2400,
+    2400
+   ],
+   "kb": 432,
+   "sha256": "cb2402e9d5a5e837debbcd2ed637a93a0997bc903c2e610db699ab002976627c"
+  },
+  {
+   "slot": "PT03",
+   "src": "scratch/feat/delivery/N721S000056B-1/N721S000056B-1_02_before_after.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 770,
+   "sha256": "d92d436a8a37f10e62b9fc6381a20c3f3bd23432b0edf9f7026a74a40309a58b"
+  },
+  {
+   "slot": "PT04",
+   "src": "scratch/feat/delivery/N721S000056B-1/N721S000056B-1_03_sitting.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 687,
+   "sha256": "9b3f4bc50431284ca3c15b04d736c0e23d352f493af914efb802fb3adf1535e1"
+  },
+  {
+   "slot": "PT05",
+   "src": "scratch/feat/delivery/N721S000056B-1/N721S000056B-1_05_feature.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 600,
+   "sha256": "05bfdcd6c59db3c03462689796302a188398d608aec7e395fadeb8cd4e23a00d"
+  },
+  {
+   "slot": "PT06",
+   "src": "scratch/feat/delivery/N721S000056B-1/N721S000056B-1_04_beyond.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 713,
+   "sha256": "4a1380db5d84d057870478e1c71d8fc9dafeb8808fe67e00b78b6feb1f2f9243"
+  },
+  {
+   "slot": "PT07",
+   "src": "library/N721S000056B-1/N721S000056B-1_CE.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 572,
+   "sha256": "d81c3764cda1c6a8ed92ed785bf61ca7e3502e026d15d1333ee235ea64fefa75"
+  },
+  {
+   "slot": "PT08",
+   "src": "scratch/scene/N721S000056B-1/N721S000056B-1_A.png",
+   "size": [
+    1254,
+    1254
+   ],
+   "kb": 326,
+   "sha256": "0c89a5c79268ebc296cfdb8404594ea1ca408a1d13d62d9f05ead286ee572019"
+  }
+ ],
+ "N721S000056M-1": [
+  {
+   "slot": "MAIN",
+   "src": "scratch/scene/N721S000056M-1/N721S000056M-1_C.png",
+   "size": [
+    1254,
+    1254
+   ],
+   "kb": 304,
+   "sha256": "1d2e26865f758b2949e8a6eee9a690fa10b5e42f9a884dd136cee614fb77ac4d"
+  },
+  {
+   "slot": "PT01",
+   "src": "scratch/feat/delivery/N721S000056M-1/N721S000056M-1_01_storage.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 688,
+   "sha256": "c72b9704cf9ec4a16ab026b864fcbda3de6ea8ce7368b7eb6458ce318932224e"
+  },
+  {
+   "slot": "PT02",
+   "src": "scratch/feat/delivery/N721S000056M-1/N721S000056M-1_06_dimensions.jpg",
+   "size": [
+    2400,
+    2400
+   ],
+   "kb": 417,
+   "sha256": "944060f83e4e2cf1478f8066248a00ddfa13fa074a668c4daaf43d4631bf1f89"
+  },
+  {
+   "slot": "PT03",
+   "src": "scratch/feat/delivery/N721S000056M-1/N721S000056M-1_02_before_after.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 738,
+   "sha256": "878074360e3ead3a5b06559024177d5f4ed10db5959440497d3772746986c77f"
+  },
+  {
+   "slot": "PT04",
+   "src": "scratch/feat/delivery/N721S000056M-1/N721S000056M-1_03_sitting.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 684,
+   "sha256": "0249f206550044f88176575aa3c1f81de140344db39ed7d3a217e5a4d54ff99f"
+  },
+  {
+   "slot": "PT05",
+   "src": "scratch/feat/delivery/N721S000056M-1/N721S000056M-1_05_feature.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 587,
+   "sha256": "a2d37623f757ac49f166bf204af23c89dac2384baf87c170dc60c9abaf647255"
+  },
+  {
+   "slot": "PT06",
+   "src": "scratch/feat/delivery/N721S000056M-1/N721S000056M-1_04_beyond.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 693,
+   "sha256": "7b532edaed491083182caa5042b9d9e0ada697b7ea86919522b17e6888444160"
+  },
+  {
+   "slot": "PT07",
+   "src": "library/N721S000056M-1/N721S000056M-1_CE.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 587,
+   "sha256": "cfa451ccb4c9b36d32fc1ccb0624ba0521ef50e4b3483a06861fe7afe506c955"
+  },
+  {
+   "slot": "PT08",
+   "src": "scratch/scene/N721S000056M-1/N721S000056M-1_A.png",
+   "size": [
+    1254,
+    1254
+   ],
+   "kb": 316,
+   "sha256": "78a9c7940c2d2f43af9c7f1db2a612b0f7cf6decab110604d6157598498a9f6d"
+  }
+ ]
+}
