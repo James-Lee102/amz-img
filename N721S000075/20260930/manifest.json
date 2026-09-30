@@ -12,16 +12,6 @@
   },
   {
    "slot": "PT01",
-   "src": "scratch/feat/delivery/N721S000075B-1/N721S000075B-1_01_storage.jpg",
-   "size": [
-    2000,
-    2000
-   ],
-   "kb": 601,
-   "sha256": "c8ac9c1d418172852834f5112c8db340f2fb8ab0638dd0f9f633632adeaff3c2"
-  },
-  {
-   "slot": "PT02",
    "src": "scratch/feat/delivery/N721S000075B-1/N721S000075B-1_06_dimensions.jpg",
    "size": [
     2400,
@@ -29,6 +19,16 @@
    ],
    "kb": 441,
    "sha256": "a677e4ae79841c6f76e74e97d5437b1ce2adc1d4fc82274c8244826847c7bbc9"
+  },
+  {
+   "slot": "PT02",
+   "src": "scratch/feat/delivery/N721S000075B-1/N721S000075B-1_01_storage.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 601,
+   "sha256": "c8ac9c1d418172852834f5112c8db340f2fb8ab0638dd0f9f633632adeaff3c2"
   },
   {
    "slot": "PT03",
@@ -104,16 +104,6 @@
   },
   {
    "slot": "PT01",
-   "src": "scratch/feat/delivery/N721S000075K-1/N721S000075K-1_01_storage.jpg",
-   "size": [
-    2000,
-    2000
-   ],
-   "kb": 624,
-   "sha256": "ddb826cea3905ecc8c2af92b6111063741220324f122d1ea67c933a157d2080a"
-  },
-  {
-   "slot": "PT02",
    "src": "scratch/feat/delivery/N721S000075K-1/N721S000075K-1_06_dimensions.jpg",
    "size": [
     2400,
@@ -121,6 +111,16 @@
    ],
    "kb": 410,
    "sha256": "01d8f1f0be55184f1880e992a3f7d4d56ffc54d79565ec218b9c87743a683422"
+  },
+  {
+   "slot": "PT02",
+   "src": "scratch/feat/delivery/N721S000075K-1/N721S000075K-1_01_storage.jpg",
+   "size": [
+    2000,
+    2000
+   ],
+   "kb": 624,
+   "sha256": "ddb826cea3905ecc8c2af92b6111063741220324f122d1ea67c933a157d2080a"
   },
   {
    "slot": "PT03",
